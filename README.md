@@ -1,4 +1,4 @@
-# Dockette Vercel Minimal
+# Dockette Vercel Minimal [hub.docker.com](https://hub.docker.com/repository/docker/bibica/vercel-cloudflare-pages-minimal/general)
 
 Phiên bản nhỏ gọn hơn của [dockette/vercel](https://hub.docker.com/r/dockette/vercel) được sử dụng để cấu hình trang tĩnh chạy qua Vercel theo bài viết tại [đây](https://bibica.net/tao-trang-tinh-cho-wordpress-voi-simply-static-va-vercel/)
 ```
